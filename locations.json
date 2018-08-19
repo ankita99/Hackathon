@@ -1,0 +1,17 @@
+ [
+    {
+      "Node": "A",
+      "Connections": [
+        {"Node": "B", "AssociatedBW": 10},
+        {"Node": "c","AssociatedBW": 6}
+      ]
+    },
+    {
+      "Node": "B",
+      "Connections": [
+        {"Node": "E","AssociatedBW": 10},
+        {"Node": "A","AssociatedBW": 6}
+      ]
+    }
+  ]
+ 
